@@ -1,4 +1,4 @@
-[foto](foto.png)
+![foto](foto.png)
 
 # Sergey Pakholchuk
 
