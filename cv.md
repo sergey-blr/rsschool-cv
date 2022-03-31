@@ -59,7 +59,8 @@ I have not experience in JS and Frontend development.
 
 ## Courses
 
-- RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
+- Courses: JS/FE Pre-School  2022Q1
+- RS Schools Course "JavaScript/Front-end. 2022Q1" (in progress)
 
 ---
 
