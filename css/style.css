@@ -1,0 +1,147 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: #000
+
+}
+li{
+  list-style-type:none
+  
+}
+header{
+  display: flex;
+ 
+  
+}
+h1{
+  font-style:italic
+}
+h2{
+  padding-left: 30px;
+  font-size: 20px;
+  border-bottom: 2px solid #0f0c08;
+}
+span{
+  font-size: 18px;
+}
+h3{
+  font-style:oblique;
+  font-size: 15px;
+  font-style:inherit;
+}
+.photo__header{
+  margin: center;
+  background-color: rgb(165 149 149);
+}
+.photo__img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 44px;
+  height: 280px;
+  width: 280px;
+  margin: auto;
+  
+}
+.photo__header{
+  padding: 0 50px 0 70px;
+  width: 40%;
+ 
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 50px;
+  width: 60%;
+  background-color: rgb(231 224 224);
+}
+ 
+
+.wrapper{
+  display: flex;
+ 
+}
+.column__left {
+  padding: 0 50px 0 70px;
+  width: 40%;
+  background-color: rgb(165 149 149);
+ 
+}    
+.contacts{
+  padding: 0;
+  margin: 0;
+}
+.contacts__list{
+  
+    margin: 0;
+   
+
+}
+.contacts__link{
+  padding: 0;
+    margin: 0;
+}
+.languages{
+    padding: 0;
+    margin: 0;
+}
+.column__right{
+  padding: 0 50px;
+    width: 60%;
+    width: 60%;
+    background-color: rgb(231 224 224);
+}
+p{
+  font-size: 17px;
+  text-indent: 20px;
+}
+.logo{
+  height: 40px;
+}
+ 
+ .column__left{
+  width: 40%;
+ }
+
+ footer {
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    background-color: #978181;
+}
+.footer__row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1200px;
+  padding: 10px;
+}
+.footer__git {
+  display: flex;
+  
+}
+.github{
+  margin-left: 81px;
+}
+
+.footer__data{
+  margin-right: 200px;
+}
+.footer__logo {
+  height: 30px;
+}
